@@ -3,9 +3,8 @@ body {
     margin: 20px;
     background-image: url(verde.jpg);
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: 200rem; 
     text-align: center;
-    overflow: hidden; 
     margin: 0;
     position: relative; 
 }
@@ -66,4 +65,3 @@ h2 {
 #lista-favoritos li {
     color: #ffffffc4;
 }
-
