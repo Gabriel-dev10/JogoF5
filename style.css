@@ -4,6 +4,7 @@ body {
     background-image: url(verde.jpg);
     background-repeat: no-repeat;
     background-size: cover; 
+    background-attachment: fixed;
     text-align: center;
     position: relative;
     height: 100vh; 
@@ -61,3 +62,4 @@ h2 {
 #lista-favoritos li {
     color: #ffffffc4;
 }
+
